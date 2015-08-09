@@ -4,155 +4,155 @@
 "Message" "Karith Station 2 by Godmil"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "-168 4376 -216"
 "noise" "sound/ambient/slowpulse2"
 "spawnflags" "1"
 }
 {
-"targetname" "t160"
+"name" "t160"
 "origin" "-1166 6622 -262"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-1638 6618 -326"
-"targetname" "t159"
+"name" "t159"
 }
 {
-"targetname" "t155"
+"name" "t155"
 "origin" "-1576 5376 -176"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"targetname" "t156"
-"classname" "info_null"
+"name" "t156"
+"classname" "pos_target"
 "origin" "-1576 5080 -176"
 }
 {
-"targetname" "t157"
+"name" "t157"
 "origin" "-1576 4840 -176"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-384 5244 -180"
-"targetname" "t154"
+"name" "t154"
 }
 {
-"targetname" "t152"
+"name" "t152"
 "origin" "-1736 4512 -156"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"team" "36"
+"group" "36"
 "classname" "func_door"
-"angle" "180"
+"yaw" "180"
 "lip" "16"
 "speed" "50"
 "model" "*1"
 }
 {
-"team" "36"
+"group" "36"
 "speed" "50"
 "lip" "16"
-"angle" "360"
+"yaw" "360"
 "classname" "func_door"
 "model" "*2"
 }
 {
 "target" "t148"
 "lip" "4"
-"angle" "270"
+"yaw" "270"
 "classname" "func_button"
 "model" "*3"
 }
 {
 "speed" "10"
 "lip" "-58"
-"angle" "-1"
+"yaw" "-1"
 "wait" "5"
-"targetname" "t148"
+"name" "t148"
 "classname" "func_door"
 "model" "*4"
 }
 {
-"targetname" "t147"
+"name" "t147"
 "origin" "488 6748 -326"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"targetname" "t146"
-"classname" "info_null"
+"name" "t146"
+"classname" "pos_target"
 "origin" "288 6748 -326"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-656 6648 -390"
-"targetname" "t145"
+"name" "t145"
 }
 {
-"targetname" "t144"
+"name" "t144"
 "origin" "-312 6648 -390"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "24 6648 -390"
-"targetname" "t143"
+"name" "t143"
 }
 {
-"targetname" "t142"
+"name" "t142"
 "origin" "48 6848 -390"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-296 6848 -390"
-"targetname" "t141"
+"name" "t141"
 }
 {
-"targetname" "t140"
+"name" "t140"
 "origin" "-640 6848 -390"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
 "origin" "-960 6468 -382"
-"classname" "info_null"
-"targetname" "t139"
+"classname" "pos_target"
+"name" "t139"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-960 6672 -382"
-"targetname" "t138"
+"name" "t138"
 }
 {
-"targetname" "t134"
-"classname" "info_null"
+"name" "t134"
+"classname" "pos_target"
 "origin" "-472 6452 -382"
 }
 {
-"targetname" "t135"
+"name" "t135"
 "origin" "-472 6380 -382"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"targetname" "t137"
-"classname" "info_null"
+"name" "t137"
+"classname" "pos_target"
 "origin" "-360 6380 -382"
 }
 {
-"targetname" "t136"
+"name" "t136"
 "origin" "-360 6452 -382"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
 "psName" "karith/steamnrth"
 "origin" "-230 6604 -431"
-"classname" "misc_particle_system"
+"classname" "gfx_particle_system"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "1872 5480 -328"
 "noise" "sound/ambient/wind1"
 "spawnflags" "1"
@@ -161,21 +161,21 @@
 "spawnflags" "1"
 "noise" "sound/ambient/slowpulse1"
 "origin" "-1752 5128 -216"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
-"targetname" "t132"
+"name" "t132"
 "origin" "-600 4064 -120"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
 "spawnflags" "1"
 "noise" "sound/ambient/slowpulse2"
 "origin" "-168 4376 -216"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "-224 4600 -512"
 "noise" "sound/ambient/slowpulse2"
 "spawnflags" "1"
@@ -184,11 +184,11 @@
 "spawnflags" "1"
 "noise" "sound/ambient/slowpulse2"
 "origin" "-1056 4064 -800"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
 "spawnflags" "1"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "104 5696 -56"
 "noise" "sound/ambient/slowpulse2"
 }
@@ -196,11 +196,11 @@
 "spawnflags" "1"
 "noise" "sound/ambient/slowpulse2"
 "origin" "-1272 7392 -304"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
 "spawnflags" "1"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "-208 7288 -304"
 "noise" "sound/ambient/slowpulse2"
 }
@@ -208,27 +208,27 @@
 "spawnflags" "1"
 "noise" "sound/ambient/slowpulse1"
 "origin" "768 7288 -488"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "-432 6560 -394"
 "noise" "sound/ambient/slowpulse2"
 }
 {
 "noise" "sound/ambient/slowpulse2"
 "origin" "660 6836 -368"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
 "spawnflags" "1"
 "noise" "sound/ambient/slowpulse2"
 "origin" "1800 6872 -552"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
 "spawnflags" "1"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "1848 6104 -328"
 "noise" "sound/ambient/wind1"
 }
@@ -236,341 +236,341 @@
 "spawnflags" "1"
 "noise" "sound/ambient/wind1"
 "origin" "1880 4728 -328"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
 "spawnflags" "1"
 "noise" "sound/ambient/drone2"
 "origin" "1080 6792 -608"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
 "noise" "sound/ambient/wind1"
 "spawnflags" "1"
 "origin" "-1408 5768 -232"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
 "speed" "10"
-"angle" "90"
+"yaw" "90"
 "classname" "func_pendulum"
 "origin" "-1220 4288 -132"
 "model" "*5"
 }
 {
-"targetname" "t125"
-"classname" "info_null"
+"name" "t125"
+"classname" "pos_target"
 "origin" "-1200 4720 -208"
 }
 {
-"targetname" "t124"
+"name" "t124"
 "origin" "-1152 4720 -208"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-1152 4512 -208"
-"targetname" "t123"
+"name" "t123"
 }
 {
 "origin" "-1200 4512 -208"
-"classname" "info_null"
-"targetname" "t122"
+"classname" "pos_target"
+"name" "t122"
 }
 {
-"targetname" "t120"
-"classname" "info_null"
+"name" "t120"
+"classname" "pos_target"
 "origin" "-1200 4064 -208"
 }
 {
-"targetname" "t121"
+"name" "t121"
 "origin" "-1152 4064 -208"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-1280 6600 -440"
-"targetname" "t91"
+"name" "t91"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-244 5052 -177"
-"targetname" "t92"
+"name" "t92"
 }
 {
 "origin" "-243 4864 -177"
-"classname" "info_null"
-"targetname" "t93"
+"classname" "pos_target"
+"name" "t93"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-248 4672 -177"
-"targetname" "t96"
+"name" "t96"
 }
 {
 "origin" "-504 4416 -177"
-"classname" "info_null"
-"targetname" "t94"
+"classname" "pos_target"
+"name" "t94"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-728 4416 -177"
-"targetname" "t95"
+"name" "t95"
 }
 {
 "origin" "776 3784 -547"
-"classname" "info_null"
-"targetname" "t90"
+"classname" "pos_target"
+"name" "t90"
 }
 {
-"targetname" "t89"
-"classname" "info_null"
+"name" "t89"
+"classname" "pos_target"
 "origin" "1000 3784 -547"
 }
 {
 "origin" "1000 4716 -517"
-"classname" "info_null"
-"targetname" "t88"
+"classname" "pos_target"
+"name" "t88"
 }
 {
-"targetname" "t87"
-"classname" "info_null"
+"name" "t87"
+"classname" "pos_target"
 "origin" "776 4716 -517"
 }
 {
 "origin" "776 4532 -517"
-"classname" "info_null"
-"targetname" "t86"
+"classname" "pos_target"
+"name" "t86"
 }
 {
-"targetname" "t85"
-"classname" "info_null"
+"name" "t85"
+"classname" "pos_target"
 "origin" "1000 4532 -517"
 }
 {
 "origin" "1000 4348 -517"
-"classname" "info_null"
-"targetname" "t84"
+"classname" "pos_target"
+"name" "t84"
 }
 {
-"targetname" "t83"
-"classname" "info_null"
+"name" "t83"
+"classname" "pos_target"
 "origin" "776 4348 -517"
 }
 {
 "origin" "1000 4080 -552"
-"classname" "info_null"
-"targetname" "t82"
+"classname" "pos_target"
+"name" "t82"
 }
 {
-"targetname" "t81"
-"classname" "info_null"
+"name" "t81"
+"classname" "pos_target"
 "origin" "776 4080 -552"
 }
 {
 "origin" "672 3786 -696"
-"classname" "info_null"
-"targetname" "t80"
+"classname" "pos_target"
+"name" "t80"
 }
 {
-"targetname" "t79"
-"classname" "info_null"
+"name" "t79"
+"classname" "pos_target"
 "origin" "888 3786 -696"
 }
 {
 "origin" "1080 3786 -696"
-"classname" "info_null"
-"targetname" "t78"
+"classname" "pos_target"
+"name" "t78"
 }
 {
-"targetname" "t77"
-"classname" "info_null"
+"name" "t77"
+"classname" "pos_target"
 "origin" "1080 4324 -696"
 }
 {
-"targetname" "t76"
-"classname" "info_null"
+"name" "t76"
+"classname" "pos_target"
 "origin" "888 4324 -696"
 }
 {
 "origin" "696 4324 -696"
-"classname" "info_null"
-"targetname" "t75"
+"classname" "pos_target"
+"name" "t75"
 }
 {
-"targetname" "t69"
-"classname" "info_null"
+"name" "t69"
+"classname" "pos_target"
 "origin" "368 4180 -640"
 }
 {
-"targetname" "t70"
+"name" "t70"
 "origin" "272 4180 -640"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"targetname" "t71"
-"classname" "info_null"
+"name" "t71"
+"classname" "pos_target"
 "origin" "-48 4180 -640"
 }
 {
-"targetname" "t72"
+"name" "t72"
 "origin" "-140 4180 -640"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"targetname" "t74"
-"classname" "info_null"
+"name" "t74"
+"classname" "pos_target"
 "origin" "-400 4180 -640"
 }
 {
-"targetname" "t73"
+"name" "t73"
 "origin" "-492 4180 -640"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"angle" "-1"
+"yaw" "-1"
 "speed" "500"
 "classname" "func_door"
 "model" "*6"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-1248 5254 -168"
-"targetname" "t65"
+"name" "t65"
 }
 {
-"targetname" "t64"
+"name" "t64"
 "origin" "-1248 5992 -216"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
 "origin" "1792 7658 -592"
 "classname" "team_human_mgturret"
 }
 {
-"targetname" "t52"
+"name" "t52"
 "origin" "-384 6196 -464"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"targetname" "t51"
-"classname" "info_null"
+"name" "t51"
+"classname" "pos_target"
 "origin" "2840 7432 -520"
 }
 {
-"targetname" "t50"
+"name" "t50"
 "origin" "2296 7432 -520"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "1928 7432 -520"
-"targetname" "t63"
+"name" "t63"
 }
 {
-"targetname" "t49"
+"name" "t49"
 "origin" "1736 7432 -520"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"targetname" "t48"
+"name" "t48"
 "origin" "2568 7432 -520"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"targetname" "t47"
+"name" "t47"
 "origin" "2096 7588 -496"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"targetname" "t35"
-"classname" "info_null"
+"name" "t35"
+"classname" "pos_target"
 "origin" "1640 7024 -552"
 }
 {
-"targetname" "t34"
-"classname" "info_null"
+"name" "t34"
+"classname" "pos_target"
 "origin" "1464 7024 -552"
 }
 {
-"targetname" "t33"
+"name" "t33"
 "origin" "1240 7024 -552"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"targetname" "t36"
-"classname" "info_null"
+"name" "t36"
+"classname" "pos_target"
 "origin" "1392 6788 -552"
 }
 {
-"targetname" "t37"
+"name" "t37"
 "origin" "1392 6620 -552"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"targetname" "t29"
-"classname" "info_null"
+"name" "t29"
+"classname" "pos_target"
 "origin" "1307 6760 -657"
 }
 {
-"targetname" "t30"
+"name" "t30"
 "origin" "1307 6631 -657"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"targetname" "t32"
-"classname" "info_null"
+"name" "t32"
+"classname" "pos_target"
 "origin" "1505 6628 -662"
 }
 {
-"targetname" "t31"
+"name" "t31"
 "origin" "1505 6769 -662"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"targetname" "t28"
+"name" "t28"
 "origin" "1632 6901 -657"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"targetname" "t27"
+"name" "t27"
 "origin" "2216 7024 -520"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"targetname" "t24"
-"classname" "info_null"
+"name" "t24"
+"classname" "pos_target"
 "origin" "2196 6913 -609"
 }
 {
-"targetname" "t25"
+"name" "t25"
 "origin" "2040 6912 -608"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"targetname" "t20"
+"name" "t20"
 "origin" "-832 4232 -610"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-1424 6520 -192"
-"targetname" "t11"
+"name" "t11"
 }
 {
-"targetname" "t10"
+"name" "t10"
 "origin" "-1560 6384 -192"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-1424 6248 -192"
-"targetname" "t9"
+"name" "t9"
 }
 {
-"targetname" "t8"
+"name" "t8"
 "origin" "-1288 6384 -192"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
 "origin" "-544 3992 -224"
@@ -589,25 +589,25 @@
 "origin" "-1752 4160 -224"
 }
 {
-"angle" "120"
+"yaw" "120"
 "origin" "2080 4484 -416"
-"classname" "info_player_start"
+"classname" "pos_player_spawn"
 }
 {
 "classname" "func_door"
 "speed" "600"
-"angle" "-1"
+"yaw" "-1"
 "model" "*7"
 }
 {
-"team" "3"
+"group" "3"
 "classname" "func_door"
-"angle" "360"
+"yaw" "360"
 "model" "*8"
 }
 {
-"team" "3"
-"angle" "180"
+"group" "3"
+"yaw" "180"
 "classname" "func_door"
 "model" "*9"
 }
@@ -620,50 +620,50 @@
 }
 {
 "origin" "-832 4528 -832"
-"classname" "info_player_start"
+"classname" "pos_player_spawn"
 }
 {
 "lip" "16"
 "classname" "func_door"
-"angle" "-1"
+"yaw" "-1"
 "model" "*11"
 }
 {
 "classname" "func_door"
-"angle" "-1"
+"yaw" "-1"
 "speed" "500"
 "lip" "16"
 "model" "*12"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "1120 7400 -384"
-"targetname" "1"
+"name" "1"
 }
 {
-"targetname" "t1"
+"name" "t1"
 "origin" "392 7400 -384"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "768 7400 -384"
-"targetname" "t2"
+"name" "t2"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "768 7872 -304"
-"targetname" "t3"
+"name" "t3"
 }
 {
-"targetname" "t4"
+"name" "t4"
 "origin" "1088 7872 -304"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "1392 7864 -312"
-"targetname" "t5"
+"name" "t5"
 }
 {
 "classname" "team_human_reactor"
@@ -694,368 +694,368 @@
 "classname" "team_alien_acid_tube"
 }
 {
-"targetname" "t12"
+"name" "t12"
 "origin" "1280 7143 -662"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "1440 7143 -662"
-"targetname" "t14"
+"name" "t14"
 }
 {
-"targetname" "t15"
+"name" "t15"
 "origin" "1600 7143 -662"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
 "lip" "16"
 "classname" "func_door"
-"angle" "-1"
+"yaw" "-1"
 "speed" "300"
 "model" "*13"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-920 4384 -730"
-"targetname" "t16"
+"name" "t16"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-920 4576 -728"
-"targetname" "t17"
+"name" "t17"
 }
 {
 "origin" "-920 4768 -728"
-"classname" "info_null"
-"targetname" "t18"
+"classname" "pos_target"
+"name" "t18"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-744 4576 -728"
-"targetname" "t19"
+"name" "t19"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-520 4800 -736"
-"targetname" "t22"
+"name" "t22"
 }
 {
 "origin" "-384 5008 -736"
-"classname" "info_null"
-"targetname" "t21"
+"classname" "pos_target"
+"name" "t21"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-384 5240 -744"
-"targetname" "t23"
+"name" "t23"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "1038 6648 -712"
-"targetname" "t26"
+"name" "t26"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "1392 6432 -488"
-"targetname" "t42"
+"name" "t42"
 }
 {
 "classname" "func_static"
 "model" "*14"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-384 6192 -662"
-"targetname" "t43"
+"name" "t43"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "1392 7678 -200"
-"targetname" "t44"
+"name" "t44"
 }
 {
 "origin" "1392 7550 -200"
-"classname" "info_null"
-"targetname" "t45"
+"classname" "pos_target"
+"name" "t45"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "1392 7422 -200"
-"targetname" "t46"
+"name" "t46"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "2278 8056 -338"
-"targetname" "t53"
+"name" "t53"
 }
 {
 "origin" "2502 8056 -338"
-"classname" "info_null"
-"targetname" "t54"
+"classname" "pos_target"
+"name" "t54"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "2726 8056 -338"
-"targetname" "t55"
+"name" "t55"
 }
 {
 "origin" "1910 8056 -338"
-"classname" "info_null"
-"targetname" "t56"
+"classname" "pos_target"
+"name" "t56"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "1670 8056 -338"
-"targetname" "t57"
+"name" "t57"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "2728 7488 -224"
-"targetname" "t62"
+"name" "t62"
 }
 {
 "origin" "2504 7488 -224"
-"classname" "info_null"
-"targetname" "t61"
+"classname" "pos_target"
+"name" "t61"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "2280 7488 -224"
-"targetname" "t60"
+"name" "t60"
 }
 {
 "origin" "1912 7488 -224"
-"classname" "info_null"
-"targetname" "t59"
+"classname" "pos_target"
+"name" "t59"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "1664 7488 -224"
-"targetname" "t58"
+"name" "t58"
 }
 {
-"targetname" "t66"
+"name" "t66"
 "origin" "1316 5004 -700"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
 "classname" "func_static"
 "model" "*15"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "388 5008 -676"
-"targetname" "t67"
+"name" "t67"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "328 4288 -656"
-"targetname" "t68"
+"name" "t68"
 }
 {
 "classname" "func_door"
 "speed" "400"
 "lip" "16"
-"angle" "-1"
+"yaw" "-1"
 "model" "*16"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-464 5752 -136"
-"targetname" "t97"
+"name" "t97"
 }
 {
-"targetname" "t98"
+"name" "t98"
 "origin" "-304 5752 -136"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-304 5640 -136"
-"targetname" "t99"
+"name" "t99"
 }
 {
-"targetname" "t100"
+"name" "t100"
 "origin" "-464 5640 -136"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
 "origin" "136 5488 -309"
-"classname" "info_null"
-"targetname" "t101"
+"classname" "pos_target"
+"name" "t101"
 }
 {
-"targetname" "t102"
-"classname" "info_null"
+"name" "t102"
+"classname" "pos_target"
 "origin" "136 5344 -309"
 }
 {
-"targetname" "t103"
-"classname" "info_null"
+"name" "t103"
+"classname" "pos_target"
 "origin" "136 5904 -309"
 }
 {
 "origin" "136 6064 -309"
-"classname" "info_null"
-"targetname" "t104"
+"classname" "pos_target"
+"name" "t104"
 }
 {
 "origin" "96 5344 -525"
-"classname" "info_null"
-"targetname" "t105"
+"classname" "pos_target"
+"name" "t105"
 }
 {
-"targetname" "t106"
-"classname" "info_null"
+"name" "t106"
+"classname" "pos_target"
 "origin" "96 5696 -525"
 }
 {
 "origin" "96 6096 -525"
-"classname" "info_null"
-"targetname" "t107"
+"classname" "pos_target"
+"name" "t107"
 }
 {
-"targetname" "t108"
-"classname" "info_null"
+"name" "t108"
+"classname" "pos_target"
 "origin" "-864 6096 -525"
 }
 {
 "origin" "-864 5696 -525"
-"classname" "info_null"
-"targetname" "t109"
+"classname" "pos_target"
+"name" "t109"
 }
 {
-"targetname" "t110"
-"classname" "info_null"
+"name" "t110"
+"classname" "pos_target"
 "origin" "-864 5344 -525"
 }
 {
 "origin" "76 5616 -5"
-"classname" "info_null"
-"targetname" "t111"
+"classname" "pos_target"
+"name" "t111"
 }
 {
-"targetname" "t112"
-"classname" "info_null"
+"name" "t112"
+"classname" "pos_target"
 "origin" "76 5776 -5"
 }
 {
-"targetname" "t113"
-"classname" "info_null"
+"name" "t113"
+"classname" "pos_target"
 "origin" "-176 5408 203"
 }
 {
 "origin" "-352 5408 203"
-"classname" "info_null"
-"targetname" "t114"
+"classname" "pos_target"
+"name" "t114"
 }
 {
-"targetname" "t115"
-"classname" "info_null"
+"name" "t115"
+"classname" "pos_target"
 "origin" "-352 5696 203"
 }
 {
 "origin" "-176 5696 203"
-"classname" "info_null"
-"targetname" "t116"
+"classname" "pos_target"
+"name" "t116"
 }
 {
-"targetname" "t117"
-"classname" "info_null"
+"name" "t117"
+"classname" "pos_target"
 "origin" "-176 5984 203"
 }
 {
 "origin" "-352 5984 203"
-"classname" "info_null"
-"targetname" "t118"
+"classname" "pos_target"
+"name" "t118"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-384 5572 -412"
-"targetname" "t119"
+"name" "t119"
 }
 {
-"classname" "misc_particle_system"
+"classname" "gfx_particle_system"
 "origin" "-1220 4288 -132"
 "psName" "karith/lghtspark"
 }
 {
-"targetname" "t126"
-"classname" "info_null"
+"name" "t126"
+"classname" "pos_target"
 "origin" "1352 6624 -805"
 }
 {
 "origin" "1568 6624 -805"
-"classname" "info_null"
-"targetname" "t127"
+"classname" "pos_target"
+"name" "t127"
 }
 {
-"targetname" "t128"
-"classname" "info_null"
+"name" "t128"
+"classname" "pos_target"
 "origin" "1792 6624 -805"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-1736 4064 -152"
-"targetname" "t129"
+"name" "t129"
 }
 {
-"targetname" "t130"
+"name" "t130"
 "origin" "-1680 3912 -88"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
 "classname" "func_door"
-"team" "1"
-"angle" "270"
+"group" "1"
+"yaw" "270"
 "model" "*17"
 }
 {
 "classname" "func_door"
-"angle" "90"
-"team" "1"
+"yaw" "90"
+"group" "1"
 "model" "*18"
 }
 {
-"team" "10"
-"angle" "90"
+"group" "10"
+"yaw" "90"
 "classname" "func_door"
 "model" "*19"
 }
 {
-"angle" "270"
-"team" "10"
+"yaw" "270"
+"group" "10"
 "classname" "func_door"
 "model" "*20"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "656 6440 -304"
-"targetname" "t131"
+"name" "t131"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "1090 5004 -756"
-"targetname" "t149"
+"name" "t149"
 }
 {
 "origin" "856 5004 -756"
-"classname" "info_null"
-"targetname" "t150"
+"classname" "pos_target"
+"name" "t150"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "634 5006 -756"
-"targetname" "t151"
+"name" "t151"
 }
 {
-"classname" "info_null"
+"classname" "pos_target"
 "origin" "-1162 6118 -502"
-"targetname" "t153"
+"name" "t153"
 }
 {
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 "origin" "-1599 3853 -228"
 "noise" "sound/ambient/drone1"
 "spawnflags" "1"
@@ -1064,7 +1064,7 @@
 "spawnflags" "1"
 "noise" "sound/ambient/drone1"
 "origin" "-459 4171 -258"
-"classname" "target_speaker"
+"classname" "sfx_speaker"
 }
 {
 "classname" "func_static"
@@ -1119,149 +1119,149 @@
 "model" "*33"
 }
 {
-"targetname" "t161"
+"name" "t161"
 "origin" "-1634 6114 -438"
-"classname" "info_null"
+"classname" "pos_target"
 }
 {
 "classname" "team_alien_spawn"
 "origin" "-1224 5096 -224"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^7Sky^7"
 "origin" "1776.952393 5496.737793 -44.152164"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^7Outside^7"
 "origin" "1712.190430 5524.188477 -867.649231"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^7Columns^7"
 "origin" "230.128387 4710.030273 -851.622986"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^7Elevator Room^7"
 "origin" "919.169250 4094.164063 -715.304443"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^7Elevator Vent^7"
 "origin" "969.557068 4992.125000 -600.577393"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^5^5Human Main Entrance^7"
 "origin" "1437.328247 7046.431641 -656.473450"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^5^5Human Base^7"
 "origin" "2047.016724 7973.435547 -582.715698"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^5^5Human Base Ledge^7"
 "origin" "2153.216064 7389.542969 -435.861908"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^5^5Human Side Entrance^7"
 "origin" "1304.514160 7863.965332 -437.104584"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^7Catwalk Hall^7"
 "origin" "-572.823669 7324.616211 -547.073914"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^7Dark Stairs^7"
 "origin" "-1321.585449 6440.762695 -490.910614"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^7Lookout^7"
 "origin" "-1238.331543 5767.997559 -248.179199"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^1^1Alien Side Entrance^7"
 "origin" "-1635.794556 5059.626465 -298.162079"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^1^1Alien Base^7"
 "origin" "-1295.021118 4142.829590 -292.998077"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^1^1Alien Main Entrance^7"
 "origin" "-439.852478 4648.318848 -235.976120"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^7Stacks Top^7"
 "origin" "-379.759674 5701.045898 -323.874298"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^7Stacks Bottom^7"
 "origin" "-429.127655 5700.526367 -851.875000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^7Pipes^7"
 "origin" "895.416992 6852.448730 -389.432404"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^7Skylight^7"
 "origin" "480.554199 6453.729004 -436.529114"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^7Steam Hall^7"
 "origin" "-541.811096 6740.001465 -483.875000"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^7Stacks Door^7"
 "origin" "-326.664032 6458.737305 -558.441956"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^7Stacks Ceiling^7"
 "origin" "-289.734222 5717.273926 242.809433"
-"classname" "target_location"
+"classname" "pos_location"
 }
 {
-"angle" "90.000000"
+"yaw" "90.000000"
 "message" "^7Window Hall^7"
 "origin" "-279.711029 4124.179688 -783.367798"
-"classname" "target_location"
+"classname" "pos_location"
 }
