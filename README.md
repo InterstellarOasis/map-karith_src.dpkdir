@@ -1,10 +1,18 @@
 Karith Station 2
 ----------------
 
-This is a map ported from the [Tremulous](http://tremulous.net/) to the [Unvanquished](https://www.unvanquished.net/) game.
+This is a map ported from the [Tremulous](http://tremulous.net/) game to the [Unvanquished](https://www.unvanquished.net/) game.
+
+Ported from Tremulous gpp package from [http://ingar.satgnu.net/files/tremulous/base/](http://ingar.satgnu.net/files/tremulous/base/).
+
+This port is an Interstellar Oasis initiative: [https://github.com/interstellar-oasis/interstellar-oasis](https://github.com/interstellar-oasis/interstellar-oasis).
 
 Credits
 -------
+
+Unvanquished port:
+
+* Thomas “illwieckz” Debesse <dev@illwieckz.net> (http://gg.illwieckz.net)
 
 Mapping:
 
@@ -12,24 +20,25 @@ Mapping:
 
 Textures & Shaders:
 
-* Gordon “Godmil” Miller <godmil@email.com> (http://godmil.com/)
+* Gordon “Godmil” Miller <godmil@gmail.com> (http://godmil.com/)
 * Nicolas “Jex“ Jansens <jex@orodu.net>
 * Randy “ydnar” Redding <ydnar@shaderlab.com> (http://www.shaderlab.com)
 * Yves “evil lair” Allaire (http://evillair.net)
-* Mike “Vedacon” Mcinnerney
+* Mike “Vedacon” McInnerney
 * Amethyst7
 
 Models:
 
-* Mike “Vedacon” Mcinnerney
+* Mike “Vedacon” McInnerney
 
 Special thanks:
 
 * Tim “Timbo” Angus <tim@ngus.net>
+* Stijn “Ingar“ Buys <ingar@osirion.org>
 * Jan “Stannum” Van der Weg
 * Paul “MoP” Greveson
+* Tristan “Jhrx“ Blease
 * Crimity
-* Jhrx
 * Lava Croft
 * Lifer
 * Myth
@@ -38,6 +47,9 @@ Special thanks:
 
 Legal
 -----
+
+Changes by Thomas Debesse fall under the Internet Systems Consortium License:  
+http://directory.fsf.org/wiki/License:ISC
 
 Assets by Tremulous contributors fall under the Creative Commons Attribution-ShareAlike 2.5 Generic License:  
 http://creativecommons.org/licenses/by-sa/2.5/
