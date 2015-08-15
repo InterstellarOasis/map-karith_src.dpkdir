@@ -62,8 +62,8 @@ Textures & Shaders:
 * Nicolas “Jex“ Jansens <jex@orodu.net>
 * Randy “ydnar” Redding <ydnar@shaderlab.com> (http://www.shaderlab.com)
 * Yves “evil lair” Allaire (http://evillair.net)
+* Chris “Amethyst” Matz
 * Mike “Vedacon” McInnerney
-* Amethyst7
 
 Models:
 
@@ -73,14 +73,14 @@ Special thanks:
 
 * Tim “Timbo” Angus <tim@ngus.net>
 * Stijn “Ingar“ Buys <ingar@osirion.org>
-* Jan “Stannum” Van der Weg
-* Paul “MoP” Greveson
+* Jan “Stannum” Van der Weg (http://janvanderweg.com/)
+* Paul “MoP” Greveson (http://www.predictable-paul.com/)
+* Robin “OverFlow” Marshall (http://bobbin.vilkacis.net)
 * Tristan “Jhrx“ Blease
 * Crimity
 * Lava Croft
 * Lifer
 * Myth
-* Overflow
 * Roughrider
 
 Legal
@@ -94,6 +94,9 @@ http://creativecommons.org/licenses/by-sa/2.5/
 
 Textures by Yves Allaire fall under the Creative Commons Attribution-ShareAlike 4.0 International License:  
 http://creativecommons.org/licenses/by-sa/4.0/
+
+Textures by Chris Matz fall under the GNU General Public License version 2:  
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
 
 Textures from shaderlab are subject to the terms of this notice:  
 Usage and redistribution policy: Textures may be freely downloaded, modified, and used in free maps, mods or total conversions provided this copyright notice is left intact and a link to Shaderlab is provided in the credits or read-me file. Other non-commercial applications are considered on a case-by-case basis via e-mail. All other usage requires written permission. Bulk redistribution or archival of the textures in any medium, digital or otherwise (except mapping packages for mods) is prohibited.
