@@ -2,7 +2,7 @@
 "gridsize" "128 128 256"
 "classname" "worldspawn"
 "Message" "Karith Station 2 by Godmil"
-"colorGrade" "gfx/karith/colorgrading"
+"gradingTexture" "gfx/karith/colorgrading"
 }
 {
 "classname" "sfx_speaker"
@@ -592,7 +592,7 @@
 {
 "yaw" "120"
 "origin" "2080 4484 -416"
-"classname" "pos_player_spawn"
+"classname" "pos_player_intermission"
 }
 {
 "classname" "func_door"
