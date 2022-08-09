@@ -445,10 +445,6 @@
 "classname" "pos_target"
 }
 {
-"origin" "1792 7658 -592"
-"classname" "team_human_mgturret"
-}
-{
 "name" "t52"
 "origin" "-384 6196 -464"
 "classname" "pos_target"
@@ -574,20 +570,27 @@
 "classname" "pos_target"
 }
 {
-"origin" "-544 3992 -224"
-"classname" "team_alien_spawn"
-}
-{
 "classname" "team_human_spawn"
 "origin" "2040 8072 -624"
+"yaw" "-90"
 }
 {
-"origin" "1688 8072 -624"
 "classname" "team_human_spawn"
+"origin" "1688 8072 -624"
+"yaw" "-90"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "-544 3992 -224"
+"yaw" "180"
 }
 {
 "classname" "team_alien_spawn"
 "origin" "-1752 4160 -224"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "-1224 5096 -224"
 }
 {
 "yaw" "120"
@@ -672,14 +675,26 @@
 }
 {
 "classname" "team_human_armoury"
-"origin" "1632 7848 -616"
+"origin" "1630 7788 -592"
+"yaw" "-90"
+}
+{
+"classname" "team_human_medistat"
+"origin" "1630 7860 -592"
+"yaw" "-90"
 }
 {
 "classname" "team_human_mgturret"
 "origin" "2032 7856 -592"
+"yaw" "-90"
 }
 {
 "origin" "2136 7856 -592"
+"classname" "team_human_mgturret"
+"yaw" "-90"
+}
+{
+"origin" "1792 7658 -592"
 "classname" "team_human_mgturret"
 }
 {
@@ -1123,10 +1138,6 @@
 "name" "t161"
 "origin" "-1634 6114 -438"
 "classname" "pos_target"
-}
-{
-"classname" "team_alien_spawn"
-"origin" "-1224 5096 -224"
 }
 {
 "yaw" "90.000000"
