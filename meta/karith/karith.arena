@@ -1,5 +1,6 @@
 {
-	map			"karith"
-	longname	"Karith Station 2"
-	type		"tremulous"
+	map "karith"
+	longname "Karith Station 2"
+	author "Godmil"
+	type "tremulous"
 }

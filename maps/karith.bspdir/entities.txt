@@ -1,7 +1,7 @@
 {
 "gridsize" "128 128 256"
 "classname" "worldspawn"
-"Message" "Karith Station 2 by Godmil"
+"Message" "Karith Station 2"
 "gradingTexture" "gfx/karith/colorgrading"
 }
 {
