@@ -10,7 +10,7 @@ This port is an Interstellar Oasis initiative: [https://github.com/InterstellarO
 Levelshot
 ---------
 
-![Levelshot](meta/karith/karith_web.jpg)
+![Levelshot](meta/karith/karith.webp)
 
 How-to
 ------
